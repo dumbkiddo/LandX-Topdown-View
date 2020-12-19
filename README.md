@@ -16,22 +16,22 @@
 -  Player behaviour:
 - [x] Movement and collision 
 - [x] Shooting mechanic
-- [ ] Receiving/inflicting damage **WIP**
+- [x] Receiving/inflicting damage 
 
 -  Enemy behaviour:
 - [x] Movement and collision 
 - [x] Atacking mechanic
-- [ ] Receiving/inflicting damage **WIP**
-- [ ] Drop items (health, upgrade etc.) **WIP**
+- [x] Receiving/inflicting damage 
+- [x] Drop items (health)
 
 - Map:
-- [ ] Complete level structure **WIP**
+- [x] Complete level structure 
 
 - UI:
-- [ ] Title and main menu **WIP**
-- [ ] Player health bar **WIP**
+- [x] Title and main menu 
+- [x] Player health bar 
 
-- [ ] Sound and SFX **WIP**
+- [x] Sound and SFX 
 
 ### Extras:
 
